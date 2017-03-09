@@ -1,0 +1,138 @@
+@font-face {
+	font-family: "Elephant Italic";
+	src: url('../fonts/ELEPHNTI.TTF') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Elephant";
+	src: url('../fonts/ELEPHNT.TTF') format('truetype');
+	font-weight: normal;
+	font-weight: normal;
+}
+#logo {
+	padding-top: 5px;
+	color: white;
+}
+* {
+	font-family: "Elephant Italic";
+	color: white;
+}
+h1 {
+	color: white;
+}
+.navtext {
+	color: white;
+}
+.navtext:hover {
+	color: red;
+}
+.navbar-default {
+	background-color: transparent; 
+	border-color: transparent; 
+}
+.panel {
+	width: 619px;
+	height: 350px;
+}
+.panel-body {
+	padding: 0px;
+}
+.channel1 {
+	border-radius: 10px 10px;
+	display: inline;
+}
+li {
+	list-style-type: none;
+}
+.projectlink {
+	padding: 0;
+	border-color: white;
+	border-radius: 10px 10px;
+}
+.projectlink:hover {
+	opacity: .5;
+}
+.project {
+	display: inline;
+}
+#toparea {
+	background: url(../images/bg1.jpg);
+	background-attachment: fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: -1.1%;
+}
+#midarea {
+	background-image: url("../images/bg2.jpg");
+	background-size: 100%;
+}
+#botarea {
+	background-image: url("../images/bg3.jpg");
+	background-size: cover;
+	margin-top: -1.3%; 
+	background-attachment: fixed;
+	background-repeat: none;
+	margin-bottom: -2%;
+}
+#YTF {
+	font-size: 35px;
+	margin-left:  
+}
+#RF {
+	font-size: 35px;
+}
+#DF {
+	font-size: 35px;
+}
+#hid1 {
+	display: inline;
+}
+#hid2 {
+	display: inline;
+}
+#hid3 {
+	display: inline;
+}
+.navbar-default .navbar-nav > li > a {
+	color: white;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: red;
+}
+#projecthead {
+	padding-top: .6%;
+}
+#me {
+	border-radius: 30px 30px;
+	display: inline-block;
+}
+p {
+	display: inline-block;
+	font-size: 20px;
+	font-family: "Elephant";
+	max-width: 50%;
+	padding-right: 10%;
+}
+#float {
+	float: left;
+	padding-left: 20%;
+}
+#bottom {
+	clear: both;
+}
+.modalcolor {
+	color: black;
+	padding-right: 0;
+}
+#buttoncol {
+	color: black;
+	font-size: 10px;
+}
+#contacthead {
+	clear: both;
+}
+.footbot {
+	padding-right: 0;
+}
